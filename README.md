@@ -2,8 +2,8 @@
 
 # install the repository
 
-`git clone https://github.com/wenealves10/broadcast-channels-in-go.git`
-`cd broadcast-channels-in-go`
+`git clone https://github.com/wenealves10/broadcast-channels-in-go.git`<br>
+`cd broadcast-channels-in-go`<br>
 `go run *.go`
 
 # The Project about the broadcast channels in go
